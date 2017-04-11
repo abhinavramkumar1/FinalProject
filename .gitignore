@@ -1,13 +1,13 @@
 
 public class Info {
-
-	public static void main(String[] args) {
-		private double tuition;
-		private String name;
-		private int students;
-		private double gpa;
-		private double acceptenceRate;
-		private int actScore
+	private double tuition;
+	private String name;
+	private int students;
+	private double gpa;
+	private double acceptenceRate;
+	private int actScore
+		public static void main(String[] args) {
+	
 	}
 
 }
